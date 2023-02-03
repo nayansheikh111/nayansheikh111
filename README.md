@@ -1,6 +1,8 @@
+![Web Developer [Frontend]]([https://github.com/nayansheikh111/nayansheikh111/blob/main/banar.jpg])=share_link)
+
 ### Hi there 👋, i'm **Nayan Sheikh**
 #### Web Developer [Frontend]
-![Web Developer [Frontend]](https://github.com/nayansheikh111/nayansheikh111/blob/main/banar.jpg)=share_link)
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
