@@ -1,4 +1,4 @@
-![Web Developer [Frontend]]([https://github.com/nayansheikh111/nayansheikh111/blob/main/banar.jpg])=share_link)
+![Web Developer [Frontend]](https://github.com/nayansheikh111/nayansheikh111/blob/main/banar.jpg)
 
 ### Hi there 👋, i'm **Nayan Sheikh**
 #### Web Developer [Frontend]
